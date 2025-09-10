@@ -1,0 +1,4 @@
+Private Key (WIF): cU3apHJYeZNvuNKinDTViJWyWQPx2A9M26EUAZU3zUrCtQAd9Y5W 
+P2PKH address: mj22vmvHofyj2i74MqNvR9eKPgfSoPc6yf 
+P2WPKH (SegWit) address: bcrt1qye5yajkp3jrrzssh6hc49qyn8nuw3kys8z6swq 
+P2SH-P2WPKH address: 2N4RykdH9ohcMDqzD9RSqmkhkSE8FRfsD5c
